@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>李大本事儿</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-03-18T10:24:04.533Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>lhx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>跨域学习</title>
+    <link href="http://example.com/2023/03/18/%E8%B7%A8%E5%9F%9F%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://example.com/2023/03/18/%E8%B7%A8%E5%9F%9F%E5%AD%A6%E4%B9%A0/</id>
+    <published>2023-03-18T10:24:04.000Z</published>
+    <updated>2023-03-18T10:24:04.533Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
